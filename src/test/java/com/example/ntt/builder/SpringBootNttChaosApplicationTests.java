@@ -1,4 +1,4 @@
-package com.example.dome;
+package com.example.ntt.builder;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
