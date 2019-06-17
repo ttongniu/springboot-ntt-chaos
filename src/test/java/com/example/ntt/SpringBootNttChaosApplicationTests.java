@@ -1,4 +1,4 @@
-package com.example.ntt.builder;
+package com.example.ntt;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
